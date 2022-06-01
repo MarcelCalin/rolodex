@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+h1 {
+  font-family: 'Syncopate';
+  font-size: 64px;
+  color: #190cca;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
